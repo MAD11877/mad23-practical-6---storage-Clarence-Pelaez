@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Week 2 Practical</string>
+    <string name="btn1t">Follow</string>
+    <string name="btn1f">Unfollow</string>
+    <string name="btn2">Message</string>
+    <string name="loremtext">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="btn3">GROUP 1</string>
+    <string name="btn4">GROUP 2</string>
+    <string name="r1t">Name</string>
+    <string name="r2t">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Group 1</string>
+</resources>

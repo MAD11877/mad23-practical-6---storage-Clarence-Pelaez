@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "493022331517",
+    "firebase_url": "https://tetst-aa989-default-rtdb.firebaseio.com",
+    "project_id": "tetst-aa989",
+    "storage_bucket": "tetst-aa989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493022331517:android:3c32b2873ae38747cc6714",
+        "android_client_info": {
+          "package_name": "com.example.week2practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493022331517-v7ebl17v1koaovj3df7cjsnb89cgigfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczz_ORacOE-jvQ5s5EoR1H1O1zANdeyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493022331517-v7ebl17v1koaovj3df7cjsnb89cgigfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493022331517:android:fb9fcd047b953c08cc6714",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493022331517-v7ebl17v1koaovj3df7cjsnb89cgigfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczz_ORacOE-jvQ5s5EoR1H1O1zANdeyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493022331517-v7ebl17v1koaovj3df7cjsnb89cgigfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493022331517:android:2188a2ab2a1b8319cc6714",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.week6practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493022331517-v7ebl17v1koaovj3df7cjsnb89cgigfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczz_ORacOE-jvQ5s5EoR1H1O1zANdeyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493022331517-v7ebl17v1koaovj3df7cjsnb89cgigfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
